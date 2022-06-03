@@ -1,5 +1,6 @@
 body {
     background-color: midnightblue;
+    text-align: center;
 }
 
 h1 {
@@ -18,4 +19,4 @@ p {
 pre {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-}
+    font-size: 200%;}
