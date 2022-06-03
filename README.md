@@ -7,5 +7,8 @@ Galaxia uses vanilla HTML, CSS and JavaScript to create a responsive web applica
 Start Date: Jun 2, 2022<br/>
 End Date: currently in progress
 
+<br/>
 
+**Sources**<br/>
+All images pulled from https://unsplash.com/
 
