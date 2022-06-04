@@ -15,6 +15,7 @@ h1 {
     text-align: center;
 }
 
-.source {
-    color: white;
+audio {
+    width: 100px;
+    height: 30px;
 }
