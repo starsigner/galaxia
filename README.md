@@ -1,6 +1,6 @@
 # galaxia
 
-Galaxia is an interactive, dystopian city game inspired by the classic Space Invaders. 
+Galaxia is an cyberpunk, dystopian city game inspired by the classic Space Invaders. 
 
 <br/>
 
