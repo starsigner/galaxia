@@ -12,5 +12,5 @@ Galaxia is an interactive, dystopian city version of the classic Space Invaders.
 
 **Sources**<br/>
 All images pulled from [unsplash](https://unsplash.com/)<br/>
-[Futuristic city image](https://unsplash.com/photos/7PqRZK6rbaE) by Kevin Laminto
+[two toned city](https://unsplash.com/photos/7PqRZK6rbaE) by Kevin Laminto
 
