@@ -1,5 +1,4 @@
 body {
-    text-align: center;
     background-image: url('purplecity.jpg');
     background-position: center center;
     background-repeat: no-repeat;
@@ -27,9 +26,19 @@ button {
     /* for hovering transitions */
     transition: 0.3s;
     cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
 }
 
 button:hover {
     opacity: 0.7;
 }
+
+.play {
+    display: flex;
+    justify-content: center;
+}
+
+
 
